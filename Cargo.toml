@@ -1,0 +1,8 @@
+[package]
+name = "odbc-test"
+version = "0.1.0"
+authors = ["aligator <aligator@suncraft-server.de>"]
+edition = "2018"
+
+[dependencies]
+odbc-sys = "0.8.1"
